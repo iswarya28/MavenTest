@@ -1,0 +1,7 @@
+<suite name = "Test Suite">
+	<test name = "Maven Test">
+		<packages>
+			<package name = "com.mav.testcases.*"/>
+		</packages>
+	</test>
+</suite>
